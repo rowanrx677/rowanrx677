@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I'm Rowan (@rowanrx677) 
 
-<!--
-**rowanrx677/rowanrx677** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer based in Zurich. I spend most of my time writing TypeScript, tinkering with internal tools, and finding simpler ways to build web apps without overcomplicating the stack.
 
-Here are some ideas to get you started:
+### What I'm up to
+- Building lightweight tools and backend services with Node.js and Express
+- Exploring local-first patterns and embedded storage with SQLite
+- Improving component architecture and UX in React apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech I use daily
+- **Languages & Runtimes:** TypeScript, JavaScript, Node.js
+- **Backend / DB:** Express, SQLite, REST APIs
+- **Frontend:** React, Tailwind CSS, HTML/CSS
+- **Tools:** Git, Vite, Linux
+
+### Connect
+- Website: [rowanrx.dev](https://rowanrx.dev)
+- Email: rowan.rx677@gmail.com
+- Twitter: [@rowanrx](https://twitter.com/rowanrx)
